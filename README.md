@@ -27,4 +27,4 @@ This repository serves as a concise showcase of my skills and experience as a CV
 
 Thank you for your interest!
 
-[Your Name]
+Thanh Phuong
