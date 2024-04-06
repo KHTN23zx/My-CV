@@ -22,7 +22,7 @@ Welcome to my CV Data Engineer repository! Here, I present my expertise in data 
   - Participation in the VIASM Mathematics Summer School and the Summer Volunteer Program "Green Summer", where I contributed to knowledge exchange and applied mathematical problem-solving in practical situations, indicates my active engagement in continuous learning and community service.
 
 - *Contact Information:* 
-  - Reach out for collaborations, inquiries, or discussions on CV data engineering opportunities via email at thanhphuong28022000@gmail.com or connect on [Facebook](https://www.facebook.com/buithithanphuong.phuong.3/).
+  - Reach out for collaborations, inquiries, or discussions on CV data engineering opportunities via email at thanhphuong28022000@gmail.com or connect on [Facebook](https://www.facebook.com/buithithanhphuong.phuong.3/).
 
 ### Purpose:
 This repository serves as a concise showcase of my skills and experience as a CV data engineer, aiming to facilitate collaborations and professional engagements.
